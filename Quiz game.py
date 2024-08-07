@@ -1,3 +1,4 @@
+# Code by Karan7773
 def check_guess(guess, answer):
     global score
     still_guessing = True
